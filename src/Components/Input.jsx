@@ -22,7 +22,7 @@ export const Input = ({
         width="17px"
         alt=""
         onClick={rightLogoOnClick}
-        style={{ position: "relative", marginLeft: "28.5%" }}
+        style={{ position: "relative", marginLeft: "11.5%" }}
       />
     </div>
   );
